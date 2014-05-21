@@ -112,8 +112,6 @@
 		26CDA716192C23AF00E603A1 /* AudioAirPlay */ = {
 			isa = PBXGroup;
 			children = (
-				26CDA71F192C23AF00E603A1 /* AppDelegate.h */,
-				26CDA720192C23AF00E603A1 /* AppDelegate.m */,
 				26CDA722192C23AF00E603A1 /* Main.storyboard */,
 				26CDA725192C23AF00E603A1 /* ViewController.h */,
 				26CDA726192C23AF00E603A1 /* ViewController.m */,
@@ -126,6 +124,8 @@
 		26CDA717192C23AF00E603A1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				26CDA71F192C23AF00E603A1 /* AppDelegate.h */,
+				26CDA720192C23AF00E603A1 /* AppDelegate.m */,
 				26CDA718192C23AF00E603A1 /* AudioAirPlay-Info.plist */,
 				26CDA719192C23AF00E603A1 /* InfoPlist.strings */,
 				26CDA71C192C23AF00E603A1 /* main.m */,
